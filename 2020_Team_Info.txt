@@ -1,0 +1,42 @@
+
+Ubuntu 16 Image File URL*:
+https://cpxiii.s3.amazonaws.com/cpxiii_tr/Training_Round_v3/cpxiii_training_se_ubu16_v3.zip
+Checksum: 5c1293226261126400215f9cc7625d89
+
+Image Extraction Password: TR!73l8tmf3v3
+
+These characters are hard to see!  This will save you a little work, but you still have to figure out what it means:
+43 79 62 65 72 50 61 74 72 69 6f 74 20 58 49 49 49 3a 20 54 68 65 20 62 75 67 20 73 74 6f 70 73 20 68 65 72 65 2e
+-------------------------------------------------------------------------------------------------------------
+HIGH SCHOOL TEAM
+Team Number: 13-2245
+Boise Composite Squadron, CAP
+Boise Bee's
+Civil Air Patrol - High School
+Team Unique ID: V433-WPLA-4KXT
+Cisco Login: 132245cp
+Cisco Password: V433-WPLA-4KXTcp1A
+
+JUNIOR HIGH TEAM
+Team Number: 13-2391
+Boise Composite Squadron
+Boise Bee's
+Team Unique ID: EUR7-JVUX-USB9
+Cisco Login: 132391cp
+Cisco Password: EUR7-JVUX-USB9cp1A
+
+Cisco Challenge Competition Course Link: https://150566673.netacad.com/login/canvas
+
+-------------------------------------------------------------------------------------------------------------
+
+CyberPatriot XIII Competition Schedule (UPDATED SEPT. 23)
+
+Training Round: September 9 – October 5, 2020
+Sneak Preview: October 7, 2020
+Training Round II: October 8 - November 11, 2020
+Practice Round: October 22 – November 9, 2020
+
+Round 1: (All teams participate) November 12-15, 2020
+Round 2: (All teams participate) December 10-13, 2020
+Round 3: (All Teams participate) January 22-23, 2021 (Two Days only)
+National Finals Competition: March 18-22, 2021
