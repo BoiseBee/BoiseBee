@@ -3,12 +3,10 @@ Ubuntu 16 Image File URL*:
 https://cpxiii.s3.amazonaws.com/cpxiii_tr/Training_Round_v3/cpxiii_training_se_ubu16_v3.zip
 Checksum: 5c1293226261126400215f9cc7625d89
 
-Image Extraction Password:
-TR!73l8tmf3v3
-
 Image Extraction Password: TR!73l8tmf3v3
 
-These characters are hard to see!  This will save you a little work, but you still have to figure out what it means 43 79 62 65 72 50 61 74 72 69 6f 74 20 58 49 49 49 3a 20 54 68 65 20 62 75 67 20 73 74 6f 70 73 20 68 65 72 65 2e
+These characters are hard to see!  This will save you a little work, but you still have to figure out what it means:
+43 79 62 65 72 50 61 74 72 69 6f 74 20 58 49 49 49 3a 20 54 68 65 20 62 75 67 20 73 74 6f 70 73 20 68 65 72 65 2e
 -------------------------------------------------------------------------------------------------------------
 HIGH SCHOOL TEAM
 Team Number: 13-2245
