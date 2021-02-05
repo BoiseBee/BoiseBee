@@ -3,8 +3,7 @@ while True:
 		num = int(input('Type a number: ')) #Gets user input
 		num2 = int(input('Number two: ')) #Gets 2nd number
 	except:
-		num = int(input('Type a number: '))
-		num2 = int(input('Number two: '))
+		print('Please type in a number')
 
 
 print(num+num2)
