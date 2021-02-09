@@ -89,15 +89,3 @@ button_equals = tkinter.Button(root, text="=", width=16, command=lambda: calcula
 button_equals.grid(row=5, column=0, columnspan=4)
 
 root.mainloop()
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
