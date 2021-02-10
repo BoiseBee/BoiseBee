@@ -3,6 +3,7 @@
 # Python 3.8 using Geany Editor
 # Ubuntu Linux (Mac and Windows Compatible)
 # Topics: tkinter, grid geometry manager, eval, try/except, lambda
+# https://www.youtube.com/watch?v=sY6MWch52Oo YouTube video.
 
 import tkinter
 
