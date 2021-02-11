@@ -5,6 +5,7 @@
 # Ubuntu Linux (Mac and Windows Compatible)
 # Topics: tkinter, grid geometry manager
 # Topics: Listbox Widget, Scrollbar widget, tkinter.messagebox, Try/Except Block, pickle
+# YouTube video lesson:  https://www.youtube.com/watch?v=8qUJ9a_3zSQ
 
 import tkinter
 import tkinter.messagebox
