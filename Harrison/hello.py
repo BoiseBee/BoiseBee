@@ -4,13 +4,13 @@ def program():
 
         num2 = int(input("Type a number: ")) #Gets 2nd number
 
-        print(Addition:)
+        print(Addition-)
         print(num1+num2)
-        print(Division:)
+        print(Division-)
         print(num1/num2)
-        print(Subtraction:)
+        print(Subtraction-)
         print(num1-num2)
-        print(multiplication:)
+        print(multiplication-)
         print(num1*num2)
 
         print(" ")
