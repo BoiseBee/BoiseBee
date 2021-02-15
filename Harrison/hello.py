@@ -1,3 +1,5 @@
+program()
+
 def program():
     while True:
         num1 = int(input("Type a number: ")) #Gets user input
