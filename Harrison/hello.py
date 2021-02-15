@@ -19,7 +19,7 @@ while True:
         break
         print("invalid input.")
     if answer == 'y':
-        os.execl(sys.executable, sys.executable, *sys.argv)
+        pass
     else:
         print("Goodbye")
         break
