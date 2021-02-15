@@ -1,3 +1,4 @@
+while True:
 num1 = int(input("Type a number: ")) #Gets user input
 
 num2 = int(input("Type a number: ")) #Gets 2nd number
@@ -13,11 +14,13 @@ print("Thank you for using the calculator")
 
 print(" ")
 
-print("Would you like to use the calculator again?")
-
-str((input("x"))
-
-if x == str("y")
-	print("Good")
-else
-	print("Ok then")
+    while True:
+        answer = str(input('Would you like to use the calculator again? (y/n): '))
+        if answer in ('y', 'n'):
+            break
+        print("invalid input.")
+    if answer == 'y':
+        continue
+    else:
+        print("Goodbye")
+        break
