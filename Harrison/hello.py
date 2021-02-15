@@ -15,11 +15,11 @@ while True:
     print(" ")
 
     answer = str(input('Would you like to use the calculator again? (y/n): '))
-    if answer in ('y', 'n'):
-        break
-        print("invalid input.")
-    if answer == 'y':
-        continue
-    else:
-        print("Goodbye")
-        break
+        if answer in ('y', 'n'):
+            break
+            print("invalid input.")
+        if answer == 'y':
+            continue
+        else:
+            print("Goodbye")
+            break
