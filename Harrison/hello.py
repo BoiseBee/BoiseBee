@@ -1,5 +1,3 @@
-program()
-
 def program():
     while True:
         num1 = int(input("Type a number: ")) #Gets user input
@@ -26,3 +24,5 @@ def program():
         else:
             print("Goodbye")
             break
+
+program()
