@@ -14,10 +14,10 @@ while True:
 
     print(" ")
 
-        while True:
-            answer = str(input('Would you like to use the calculator again? (y/n): '))
-            if answer in ('y', 'n'):
-                break
+while True:
+    answer = str(input('Would you like to use the calculator again? (y/n): '))
+        if answer in ('y', 'n'):
+            break
             print("invalid input.")
         if answer == 'y':
             continue
