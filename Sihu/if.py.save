@@ -1,0 +1,14 @@
+pets = ['dog', 'cat', 'fish', 56, 42, 0]
+
+
+for i in pets:
+	if  i == 'cat':
+		break
+	print(i)
+
+print(i)
+<pre>        <font color="#2AA1B3"><b>if</b></font>  i == <font color="#26A269"><b>&apos;cat&apos;</b></font>:
+                <font color="#2AA1B3"><b>break</b></font>
+        print(i)
+
+</pre>
