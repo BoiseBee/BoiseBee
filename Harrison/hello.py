@@ -34,6 +34,7 @@ while True:
 		if answer == "y":
 		    program()
 	else:
+		print(" ")
 		print("Goodbye")
 		break
 
